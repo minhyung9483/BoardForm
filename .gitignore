@@ -1,0 +1,7 @@
+.classpath
+.project
+.springBeans
+.settings/
+target/test-classes/
+target/m2e-wtp/
+src/main/webapp/resources/common/js/ckeditor/
